@@ -5,3 +5,7 @@ gunicorn
 whitenoise
 requests
 python-dotenv
+joblib
+numpy
+scikit-learn
+google-genai
